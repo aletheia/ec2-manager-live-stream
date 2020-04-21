@@ -1,0 +1,11 @@
+{
+  "name": "ec2-manager",
+  "version": "0.0.1",
+  "description": "lambda function to manage ec2 instances",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest ."
+  },
+  "author": "",
+  "license": "Apache-2.0"
+}
